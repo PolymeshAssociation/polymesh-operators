@@ -1,6 +1,7 @@
 {
   "0xbd6b0b7d6e60c83e6d89f4579e831461e8946770a8cdfd2afc1dee8c84cfabff": { "name": "Assetera" },
   "0x5c27274a1e4b854c4d87d96472d4fe73affc2d619103c615da8af34e53d5e7aa": { "name": "B89" },
+  "0xb3413767d607344ae8fee8fee6053f466cc7d44ded9c20f4811ce65cfab243ed": { "name": "BDACS" },
   "0x87f70af83b01f0db214c516c7eafc3c193aa879f3266b2e160b09dc6366ba3f5": { "name": "Binance" },
   "0xbd73ee736e1ff52cbc132f6a58926b07efdb73fb83e78222df8918a6582289b4": { "name": "Bitalo" },
   "0x407bcab94e7e7d4f1a41c5753b19cbb0e495d8fe856314190fbc569c6df1fb5c": { "name": "Black Manta CP" },
@@ -29,6 +30,7 @@
   "0x5e440a1e36ad87dc96f601562e344d87054fbf43e9b109d988ea3a3664f29f5e": { "name": "Saxon Advisors" },
   "0xb1165011950bfa51c155dfdfc50db065f12ec5658aeac688f5b4a62bb4d7e1b4": { "name": "Sors" },
   "0xf820c02c85c98bb9609049ad9f555517d35dd73d04b080aaa481720119a23bb8": { "name": "Scrypt" },
+  "0x74bbbea37bfa84de139ba2b3dc285774ab0d27cf304b5dc216357fe398b7f6df": { "name": "Tetra Trust" },
   "0x1e4361c382f6556095a855a43e20289b7252a1c66c7c8b837ae32d3d1cb16642": { "name": "Tokenise" },
   "0xd57b33525b3e17e50b94f1283fbfd62a756dc51403ad7764a3a75873f026a5d8": { "name": "Van Sterling" },
   "0x8a2fbb6d91d5e0427b5ed785a2c2ccf145c43cf033d6a735be50591b96fd71a4": { "name": "Vero Pulse" },
